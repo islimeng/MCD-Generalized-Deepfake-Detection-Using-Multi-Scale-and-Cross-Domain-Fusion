@@ -1,0 +1,1 @@
+# MCD-Generalized-Deepfake-Detection-Using-Multi-Scale-and-Cross-Domain-Fusion
